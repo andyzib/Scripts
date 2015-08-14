@@ -1,0 +1,210 @@
+Server	Update Name	Rating
+vcorp100w	Security Update for Microsoft .NET Framework 3.5.1 on Windows 7 and Windows Server 2008 R2 SP1 for x64-based Systems (KB2736422)	Important	
+vcorp100w	Security Update for Windows Server 2008 R2 x64 Edition (KB2778930)	Important	
+vcorp100w	Security Update for Microsoft .NET Framework 4 on XP, Server 2003, Vista, Windows 7, Server 2008, Server 2008 R2 for x64 (KB2736428)	Important	
+vcorp100w	Security Update for Microsoft .NET Framework 3.5.1 on Windows 7 and Windows Server 2008 R2 SP1 for x64-based Systems (KB2742599)	Important	
+vcorp100w	Security Update for Windows Server 2008 R2 x64 Edition (KB2785220)	Important	
+vcorp100w	Security Update for Windows Server 2008 R2 x64 Edition (KB2769369)	Critical	
+vcorp100w	Security Update for Windows Server 2008 R2 x64 Edition (KB2757638)	Moderate	
+vcorp100w	Security Update for Microsoft .NET Framework 4 on XP, Server 2003, Vista, Windows 7, Server 2008, Server 2008 R2 for x64 (KB2742595)	Important	
+vcorp100w	Security Update for Microsoft .NET Framework 3.5.1 on Windows 7 and Windows Server 2008 R2 SP1 for x64-based Systems (KB2756921)	Important	
+vcorp100w	Windows Malicious Software Removal Tool x64 - January 2013 (KB890830)		
+vcorp101w	Security Update for Microsoft .NET Framework 3.5.1 on Windows 7 and Windows Server 2008 R2 SP1 for x64-based Systems (KB2736422)	Important	
+vcorp101w	Security Update for Windows Server 2008 R2 x64 Edition (KB2778930)	Important	
+vcorp101w	Security Update for Microsoft .NET Framework 4 on XP, Server 2003, Vista, Windows 7, Server 2008, Server 2008 R2 for x64 (KB2736428)	Important	
+vcorp101w	Security Update for Microsoft .NET Framework 3.5.1 on Windows 7 and Windows Server 2008 R2 SP1 for x64-based Systems (KB2742599)	Important	
+vcorp101w	Security Update for Windows Server 2008 R2 x64 Edition (KB2785220)	Important	
+vcorp101w	Security Update for Windows Server 2008 R2 x64 Edition (KB2769369)	Critical	
+vcorp101w	Security Update for Windows Server 2008 R2 x64 Edition (KB2757638)	Moderate	
+vcorp101w	Security Update for Microsoft .NET Framework 4 on XP, Server 2003, Vista, Windows 7, Server 2008, Server 2008 R2 for x64 (KB2742595)	Important	
+vcorp101w	Security Update for Microsoft .NET Framework 3.5.1 on Windows 7 and Windows Server 2008 R2 SP1 for x64-based Systems (KB2756921)	Important	
+vcorp101w	Windows Malicious Software Removal Tool x64 - January 2013 (KB890830)		
+vcorp102w	Security Update for Microsoft .NET Framework 3.5.1 on Windows 7 and Windows Server 2008 R2 SP1 for x64-based Systems (KB2736422)	Important	
+vcorp102w	Security Update for Windows Server 2008 R2 x64 Edition (KB2778930)	Important	
+vcorp102w	Security Update for Microsoft .NET Framework 4 on XP, Server 2003, Vista, Windows 7, Server 2008, Server 2008 R2 for x64 (KB2736428)	Important	
+vcorp102w	Security Update for Microsoft .NET Framework 3.5.1 on Windows 7 and Windows Server 2008 R2 SP1 for x64-based Systems (KB2742599)	Important	
+vcorp102w	Security Update for Windows Server 2008 R2 x64 Edition (KB2785220)	Important	
+vcorp102w	Security Update for Windows Server 2008 R2 x64 Edition (KB2769369)	Critical	
+vcorp102w	Security Update for Windows Server 2008 R2 x64 Edition (KB2757638)	Moderate	
+vcorp102w	Security Update for Microsoft .NET Framework 4 on XP, Server 2003, Vista, Windows 7, Server 2008, Server 2008 R2 for x64 (KB2742595)	Important	
+vcorp102w	Security Update for Microsoft .NET Framework 3.5.1 on Windows 7 and Windows Server 2008 R2 SP1 for x64-based Systems (KB2756921)	Important	
+vcorp102w	Windows Malicious Software Removal Tool x64 - January 2013 (KB890830)		
+vcorp103w	Security Update for Microsoft .NET Framework 3.5.1 on Windows 7 and Windows Server 2008 R2 SP1 for x64-based Systems (KB2736422)	Important	
+vcorp103w	Security Update for Windows Server 2008 R2 x64 Edition (KB2778930)	Important	
+vcorp103w	Security Update for Microsoft .NET Framework 4 on XP, Server 2003, Vista, Windows 7, Server 2008, Server 2008 R2 for x64 (KB2736428)	Important	
+vcorp103w	Security Update for Microsoft .NET Framework 3.5.1 on Windows 7 and Windows Server 2008 R2 SP1 for x64-based Systems (KB2742599)	Important	
+vcorp103w	Security Update for Windows Server 2008 R2 x64 Edition (KB2785220)	Important	
+vcorp103w	Security Update for Windows Server 2008 R2 x64 Edition (KB2769369)	Critical	
+vcorp103w	Security Update for Windows Server 2008 R2 x64 Edition (KB2757638)	Moderate	
+vcorp103w	Security Update for Microsoft .NET Framework 4 on XP, Server 2003, Vista, Windows 7, Server 2008, Server 2008 R2 for x64 (KB2742595)	Important	
+vcorp103w	Security Update for Microsoft .NET Framework 3.5.1 on Windows 7 and Windows Server 2008 R2 SP1 for x64-based Systems (KB2756921)	Important	
+vcorp103w	Windows Malicious Software Removal Tool x64 - January 2013 (KB890830)		
+vcorp104w	Security Update for Microsoft .NET Framework 3.5.1 on Windows 7 and Windows Server 2008 R2 SP1 for x64-based Systems (KB2736422)	Important	
+vcorp104w	Security Update for Windows Server 2008 R2 x64 Edition (KB2778930)	Important	
+vcorp104w	Security Update for Microsoft .NET Framework 4 on XP, Server 2003, Vista, Windows 7, Server 2008, Server 2008 R2 for x64 (KB2736428)	Important	
+vcorp104w	Security Update for Microsoft .NET Framework 3.5.1 on Windows 7 and Windows Server 2008 R2 SP1 for x64-based Systems (KB2742599)	Important	
+vcorp104w	Security Update for Windows Server 2008 R2 x64 Edition (KB2785220)	Important	
+vcorp104w	Security Update for Windows Server 2008 R2 x64 Edition (KB2769369)	Critical	
+vcorp104w	Security Update for Windows Server 2008 R2 x64 Edition (KB2757638)	Moderate	
+vcorp104w	Security Update for Microsoft .NET Framework 4 on XP, Server 2003, Vista, Windows 7, Server 2008, Server 2008 R2 for x64 (KB2742595)	Important	
+vcorp104w	Security Update for Microsoft .NET Framework 3.5.1 on Windows 7 and Windows Server 2008 R2 SP1 for x64-based Systems (KB2756921)	Important	
+vcorp104w	Windows Malicious Software Removal Tool x64 - January 2013 (KB890830)		
+vcorp105w	Security Update for Microsoft .NET Framework 3.5.1 on Windows 7 and Windows Server 2008 R2 SP1 for x64-based Systems (KB2736422)	Important	
+vcorp105w	Security Update for Windows Server 2008 R2 x64 Edition (KB2778930)	Important	
+vcorp105w	Security Update for Microsoft .NET Framework 4 on XP, Server 2003, Vista, Windows 7, Server 2008, Server 2008 R2 for x64 (KB2736428)	Important	
+vcorp105w	Security Update for Microsoft .NET Framework 3.5.1 on Windows 7 and Windows Server 2008 R2 SP1 for x64-based Systems (KB2742599)	Important	
+vcorp105w	Security Update for Windows Server 2008 R2 x64 Edition (KB2785220)	Important	
+vcorp105w	Security Update for Windows Server 2008 R2 x64 Edition (KB2769369)	Critical	
+vcorp105w	Security Update for Windows Server 2008 R2 x64 Edition (KB2757638)	Moderate	
+vcorp105w	Security Update for Microsoft .NET Framework 4 on XP, Server 2003, Vista, Windows 7, Server 2008, Server 2008 R2 for x64 (KB2742595)	Important	
+vcorp105w	Security Update for Microsoft .NET Framework 3.5.1 on Windows 7 and Windows Server 2008 R2 SP1 for x64-based Systems (KB2756921)	Important	
+vcorp105w	Windows Malicious Software Removal Tool x64 - January 2013 (KB890830)		
+vcorp106w	Security Update for Microsoft .NET Framework 3.5.1 on Windows 7 and Windows Server 2008 R2 SP1 for x64-based Systems (KB2736422)	Important	
+vcorp106w	Security Update for Windows Server 2008 R2 x64 Edition (KB2778930)	Important	
+vcorp106w	Security Update for Microsoft .NET Framework 4 on XP, Server 2003, Vista, Windows 7, Server 2008, Server 2008 R2 for x64 (KB2736428)	Important	
+vcorp106w	Security Update for Microsoft .NET Framework 3.5.1 on Windows 7 and Windows Server 2008 R2 SP1 for x64-based Systems (KB2742599)	Important	
+vcorp106w	Security Update for Windows Server 2008 R2 x64 Edition (KB2785220)	Important	
+vcorp106w	Security Update for Windows Server 2008 R2 x64 Edition (KB2769369)	Critical	
+vcorp106w	Security Update for Windows Server 2008 R2 x64 Edition (KB2757638)	Moderate	
+vcorp106w	Security Update for Microsoft .NET Framework 4 on XP, Server 2003, Vista, Windows 7, Server 2008, Server 2008 R2 for x64 (KB2742595)	Important	
+vcorp106w	Security Update for Microsoft .NET Framework 3.5.1 on Windows 7 and Windows Server 2008 R2 SP1 for x64-based Systems (KB2756921)	Important	
+vcorp106w	Windows Malicious Software Removal Tool x64 - January 2013 (KB890830)		
+vcorp107w	Security Update for Microsoft .NET Framework 3.5.1 on Windows 7 and Windows Server 2008 R2 SP1 for x64-based Systems (KB2736422)	Important	
+vcorp107w	Security Update for Windows Server 2008 R2 x64 Edition (KB2778930)	Important	
+vcorp107w	Security Update for Microsoft .NET Framework 4 on XP, Server 2003, Vista, Windows 7, Server 2008, Server 2008 R2 for x64 (KB2736428)	Important	
+vcorp107w	Security Update for Microsoft .NET Framework 3.5.1 on Windows 7 and Windows Server 2008 R2 SP1 for x64-based Systems (KB2742599)	Important	
+vcorp107w	Security Update for Windows Server 2008 R2 x64 Edition (KB2785220)	Important	
+vcorp107w	Security Update for Windows Server 2008 R2 x64 Edition (KB2769369)	Critical	
+vcorp107w	Security Update for Windows Server 2008 R2 x64 Edition (KB2757638)	Moderate	
+vcorp107w	Security Update for Microsoft .NET Framework 4 on XP, Server 2003, Vista, Windows 7, Server 2008, Server 2008 R2 for x64 (KB2742595)	Important	
+vcorp107w	Security Update for Microsoft .NET Framework 3.5.1 on Windows 7 and Windows Server 2008 R2 SP1 for x64-based Systems (KB2756921)	Important	
+vcorp107w	Windows Malicious Software Removal Tool x64 - January 2013 (KB890830)		
+vcorp108w	Security Update for Microsoft Office 2007 suites (KB2687499)	Critical	
+vcorp108w	Security Update for Microsoft .NET Framework 3.5.1 on Windows 7 and Windows Server 2008 R2 SP1 for x64-based Systems (KB2736422)	Important	
+vcorp108w	Security Update for Windows Server 2008 R2 x64 Edition (KB2778930)	Important	
+vcorp108w	Security Update for Microsoft .NET Framework 4 on XP, Server 2003, Vista, Windows 7, Server 2008, Server 2008 R2 for x64 (KB2736428)	Important	
+vcorp108w	Security Update for Microsoft .NET Framework 3.5.1 on Windows 7 and Windows Server 2008 R2 SP1 for x64-based Systems (KB2742599)	Important	
+vcorp108w	Security Update for Windows Server 2008 R2 x64 Edition (KB2785220)	Important	
+vcorp108w	Security Update for Windows Server 2008 R2 x64 Edition (KB2769369)	Critical	
+vcorp108w	Security Update for Windows Server 2008 R2 x64 Edition (KB2757638)	Moderate	
+vcorp108w	Security Update for Microsoft .NET Framework 4 on XP, Server 2003, Vista, Windows 7, Server 2008, Server 2008 R2 for x64 (KB2742595)	Important	
+vcorp108w	Security Update for Microsoft .NET Framework 3.5.1 on Windows 7 and Windows Server 2008 R2 SP1 for x64-based Systems (KB2756921)	Important	
+vcorp108w	Windows Malicious Software Removal Tool x64 - January 2013 (KB890830)		
+vcorp109w	Security Update for Microsoft Visual Studio 2008 Service Pack 1 XML Editor (KB2251487)	Important	
+vcorp109w	Security Update for SQL Server 2008 R2 (KB2494088)	Important	
+vcorp109w	Microsoft SQL Server 2008 R2 Service Pack 1 (KB2528583)		
+vcorp109w	Security Update for Microsoft .NET Framework 3.5.1 on Windows 7 and Windows Server 2008 R2 SP1 for x64-based Systems (KB2736422)	Important	
+vcorp109w	Security Update for Windows Server 2008 R2 x64 Edition (KB2778930)	Important	
+vcorp109w	Security Update for Microsoft .NET Framework 3.5.1 on Windows 7 and Windows Server 2008 R2 SP1 for x64-based Systems (KB2742599)	Important	
+vcorp109w	Security Update for Windows Server 2008 R2 x64 Edition (KB2785220)	Important	
+vcorp109w	Cumulative Security Update for Internet Explorer 9 for Windows Server 2008 R2 x64 Edition (KB2530548)	Critical	
+vcorp109w	Security Update for Windows Server 2008 R2 x64 Edition (KB2769369)	Critical	
+vcorp109w	Security Update for Windows Server 2008 R2 x64 Edition (KB2757638)	Moderate	
+vcorp109w	Security Update for Microsoft .NET Framework 3.5.1 on Windows 7 and Windows Server 2008 R2 SP1 for x64-based Systems (KB2756921)	Important	
+vcorp109w	Windows Malicious Software Removal Tool x64 - January 2013 (KB890830)		
+vcorp110w	Security Update for Microsoft Word 2010 (KB2760410) 64-Bit Edition	Critical	
+vcorp110w	Security Update for Microsoft Excel 2010 (KB2597126) 64-Bit Edition	Important	
+vcorp110w	Security Update for Microsoft Office 2010 (KB2687510) 64-Bit Edition	Important	
+vcorp110w	Security Update for Microsoft InfoPath 2010 (KB2687417) 64-Bit Edition	Important	
+vcorp110w	Security Update for Microsoft Office 2010 (KB2687501) 64-Bit Edition	Important	
+vcorp110w	Security Update for Microsoft .NET Framework 3.5.1 on Windows 7 and Windows Server 2008 R2 SP1 for x64-based Systems (KB2736422)	Important	
+vcorp110w	Security Update for Windows Server 2008 R2 x64 Edition (KB2778930)	Important	
+vcorp110w	Security Update for Microsoft .NET Framework 4 on XP, Server 2003, Vista, Windows 7, Server 2008, Server 2008 R2 for x64 (KB2736428)	Important	
+vcorp110w	Security Update for Microsoft .NET Framework 3.5.1 on Windows 7 and Windows Server 2008 R2 SP1 for x64-based Systems (KB2742599)	Important	
+vcorp110w	Security Update for Windows Server 2008 R2 x64 Edition (KB2785220)	Important	
+vcorp110w	Security Update for Windows Server 2008 R2 x64 Edition (KB2769369)	Critical	
+vcorp110w	Security Update for Windows Server 2008 R2 x64 Edition (KB2757638)	Moderate	
+vcorp110w	Security Update for Microsoft .NET Framework 4 on XP, Server 2003, Vista, Windows 7, Server 2008, Server 2008 R2 for x64 (KB2742595)	Important	
+vcorp110w	Security Update for Microsoft .NET Framework 3.5.1 on Windows 7 and Windows Server 2008 R2 SP1 for x64-based Systems (KB2756921)	Important	
+vcorp110w	Windows Malicious Software Removal Tool x64 - January 2013 (KB890830)		
+vcorp112w	Security Update for Microsoft Visual C++ 2005 Service Pack 1 Redistributable Package (KB2538242)	Important	
+vcorp112w	Security Update for Windows Server 2008 R2 x64 Edition (KB2778930)	Important	
+vcorp112w	Security Update for Microsoft .NET Framework 4 on XP, Server 2003, Vista, Windows 7, Server 2008, Server 2008 R2 for x64 (KB2736428)	Important	
+vcorp112w	Security Update for Microsoft .NET Framework 3.5.1 on Windows 7 and Windows Server 2008 R2 SP1 for x64-based Systems (KB2742599)	Important	
+vcorp112w	Security Update for Windows Server 2008 R2 x64 Edition (KB2785220)	Important	
+vcorp112w	Security Update for Windows Server 2008 R2 x64 Edition (KB2769369)	Critical	
+vcorp112w	Security Update for Windows Server 2008 R2 x64 Edition (KB2757638)	Moderate	
+vcorp112w	Security Update for Microsoft .NET Framework 4 on XP, Server 2003, Vista, Windows 7, Server 2008, Server 2008 R2 for x64 (KB2742595)	Important	
+vcorp112w	Windows Malicious Software Removal Tool x64 - January 2013 (KB890830)		
+mnhqcfile01-ret	Security Update for Microsoft .NET Framework 1.1 SP1 on Windows Server 2003 and Windows Server 2003 R2 x86 (KB2742604)	Important	
+mnhqcfile01-ret	Security Update for Microsoft .NET Framework 3.5 SP1 on Windows XP, Server 2003, Vista, Server 2008 x86 (KB2736416)	Important	
+mnhqcfile01-ret	Security Update for Internet Explorer 8 for Windows Server 2003 (KB2799329)	Moderate	
+mnhqcfile01-ret	Security Update for Microsoft XML Core Services 6.0 Service Pack 2 (KB2758696)	Moderate	
+mnhqcfile01-ret	Security Update for Microsoft .NET Framework 3.0 SP2 on Windows Server 2003 and Windows XP x86 (KB2756918)	Important	
+mnhqcfile01-ret	Security Update for Microsoft .NET Framework 2.0 SP2 on Windows Server 2003 and Windows XP x86 (KB2742596)	Important	
+mnhqcfile01-ret	Windows Malicious Software Removal Tool - January 2013 (KB890830)		
+scorp001w	Security Update for Windows Server 2003 (KB2518295)	Important	
+scorp001w	Security Update for Microsoft .NET Framework 1.1 SP1 on Windows Server 2003 and Windows Server 2003 R2 x86 (KB2742604)	Important	
+scorp001w	Security Update for Microsoft .NET Framework 3.5 SP1 on Windows XP, Server 2003, Vista, Server 2008 x86 (KB2736416)	Important	
+scorp001w	Security Update for Internet Explorer 8 for Windows Server 2003 (KB2799329)	Moderate	
+scorp001w	Security Update for Microsoft XML Core Services 6.0 Service Pack 2 (KB2758696)	Moderate	
+scorp001w	Security Update for Microsoft .NET Framework 3.0 SP2 on Windows Server 2003 and Windows XP x86 (KB2756918)	Important	
+scorp001w	Security Update for Microsoft .NET Framework 2.0 SP2 on Windows Server 2003 and Windows XP x86 (KB2742596)	Important	
+scorp001w	Windows Malicious Software Removal Tool - January 2013 (KB890830)		
+scorp003w	Security Update for Microsoft Office Word 2007 (KB2760421)	Critical	
+scorp003w	Security Update for Microsoft Office InfoPath 2007 (KB2687440)	Important	
+scorp003w	Security Update for Microsoft Office 2007 suites (KB2760416)	Important	
+scorp003w	Security Update for Microsoft Office 2007 suites (KB2596615)	Important	
+scorp003w	Security Update for Microsoft Office 2007 suites (KB2596792)	Important	
+scorp003w	Security Update for Microsoft Office 2007 suites (KB2597969)	Important	
+scorp003w	Security Update for Microsoft Office Excel 2007 (KB2687307)	Important	
+scorp003w	Security Update for Microsoft Office 2007 suites (KB2596754)	Important	
+scorp003w	Security Update for Microsoft Office 2007 suites (KB2596871)	Important	
+scorp003w	Security Update for Microsoft Office 2007 suites (KB2596672)	Important	
+scorp003w	Security Update for Microsoft Office 2007 suites (KB2687441)	Critical	
+scorp003w	Security Update for Microsoft Office 2007 suites (KB2687311)	Important	
+scorp003w	Security Update for Microsoft Office 2007 suites (KB2596744)	Important	
+scorp003w	Security Update for Microsoft Office 2007 suites (KB2687499)	Critical	
+scorp003w	Security Update for Microsoft .NET Framework 2.0 SP2 on Windows Server 2003 and Windows XP x86 (KB2729450)	Critical	
+scorp003w	Security Update for Windows Server 2003 (KB2719985)	Moderate	
+scorp003w	Security Update for Windows Server 2003 (KB2724197)	Important	
+scorp003w	Security Update for Windows Server 2003 (KB2645640)	Important	
+scorp003w	Security Update for Windows Server 2003 (KB2653956)	Critical	
+scorp003w	Security Update for Windows Server 2003 (KB2655992)	Important	
+scorp003w	Security Update for Windows Server 2003 (KB2659262)	Important	
+scorp003w	Security Update for Microsoft .NET Framework 1.1 SP1 on Windows Server 2003 and Windows Server 2003 R2 x86 (KB2742604)	Important	
+scorp003w	Security Update for Microsoft .NET Framework 3.0 SP2 on Windows Server 2003 and Windows XP x86 (KB2656407)	Low	
+scorp003w	Security Update for Windows Server 2003 (KB2758857)	Critical	
+scorp003w	Security Update for Windows Server 2003 (KB2753842)	Critical	
+scorp003w	Cumulative Security Update for Internet Explorer 8 for Windows Server 2003 (KB2761465)	Low	
+scorp003w	Security Update for Windows Server 2003 (KB2705219)	Important	
+scorp003w	Security Update for Windows Server 2003 (KB2676562)	Critical	
+scorp003w	Security Update for Microsoft .NET Framework 3.5 SP1 on Windows XP, Server 2003, Vista, Server 2008 x86 (KB2736416)	Important	
+scorp003w	Security Update for Windows Server 2003 (KB2691442)	Important	
+scorp003w	Security Update for Internet Explorer 8 for Windows Server 2003 (KB2799329)	Moderate	
+scorp003w	Security Update for Windows Server 2003 (KB2685939)	Critical	
+scorp003w	Security Update for Microsoft XML Core Services 6.0 Service Pack 2 (KB2758696)	Moderate	
+scorp003w	Security Update for Windows Server 2003 (KB2727528)	Critical	
+scorp003w	Security Update for Microsoft .NET Framework 2.0 SP2 on Windows Server 2003 and Windows XP x86 (KB2604092)	Critical	
+scorp003w	Security Update for Windows Server 2003 (KB2712808)	Critical	
+scorp003w	Security Update for Windows Server 2003 (KB2686509)	Important	
+scorp003w	Security Update for Microsoft .NET Framework 3.5 SP1 on Windows XP, Server 2003, Vista, Server 2008 x86 (KB2604111)	Critical	
+scorp003w	Security Update for Windows Server 2003 (KB2779030)	Critical	
+scorp003w	Security Update for Microsoft .NET Framework 3.0 SP2 on Windows Server 2003 and Windows XP x86 (KB2604110)	Critical	
+scorp003w	Security Update for Windows Server 2003 (KB2698365)	Moderate	
+scorp003w	Security Update for Windows Server 2003 (KB2770660)	Important	
+scorp003w	Security Update for Microsoft .NET Framework 3.0 SP2 on Windows Server 2003 and Windows XP x86 (KB2756918)	Important	
+scorp003w	Security Update for Microsoft .NET Framework 2.0 SP2 on Windows Server 2003 and Windows XP x86 (KB2742596)	Important	
+scorp003w	Windows Malicious Software Removal Tool - January 2013 (KB890830)		
+scorp003w	Update Rollup for ActiveX Killbits for Windows Server 2003 (KB2736233)		
+scorp003w	Update for Windows Server 2003 (KB2779562)		
+MNHQCSECU01	Security Update for Microsoft .NET Framework 1.1 SP1 on Windows XP, Windows Vista, and Windows Server 2008 x86 (KB2742597)	Important	
+MNHQCSECU01	Security Update for Windows XP (KB2757638)	Critical	
+MNHQCSECU01	Security Update for Microsoft .NET Framework 3.5 SP1 on Windows XP, Server 2003, Vista, Server 2008 x86 (KB2736416)	Important	
+MNHQCSECU01	Security Update for Microsoft .NET Framework 3.0 SP2 on Windows Server 2003 and Windows XP x86 (KB2756918)	Important	
+MNHQCSECU01	Security Update for Internet Explorer 8 for Windows XP (KB2799329)	Critical	
+MNHQCSECU01	Security Update for Microsoft .NET Framework 2.0 SP2 on Windows Server 2003 and Windows XP x86 (KB2742596)	Important	
+MNHQCSECU01	Windows Malicious Software Removal Tool - January 2013 (KB890830)		
+ncorp001qm	Security Update for Windows Server 2008 x64 Edition (KB2758857)	Critical	
+ncorp001qm	Security Update for Windows Server 2008 x64 Edition (KB2770660)	Important	
+ncorp001qm	Security Update for Windows Server 2008 x64 Edition (KB2757638)	Moderate	
+ncorp001qm	Security Update for Microsoft .NET Framework 2.0 SP2 on Windows Vista SP2 and Windows Server 2008 SP2 for x64 (KB2742601)	Important	
+ncorp001qm	Security Update for Internet Explorer 8 for Windows Server 2008 x64 Edition (KB2799329)	Moderate	
+ncorp001qm	Security Update for Windows Server 2008 x64 Edition (KB2753842)	Critical	
+ncorp001qm	Cumulative Security Update for Internet Explorer 8 for Windows Server 2008 x64 Edition (KB2761465)	Low	
+ncorp001qm	Security Update for Windows Server 2008 x64 Edition (KB2778930)	Important	
+ncorp001qm	Security Update for Microsoft .NET Framework 3.0 SP2 on Windows Vista SP2 and Windows Server 2008 SP2 for x64 (KB2756919)	Important	
+ncorp001qm	Security Update for Microsoft .NET Framework 3.5 SP1 on Windows XP, Server 2003, Vista, and Server 2008 for x64 (KB2736416)	Important	
+ncorp001qm	Security Update for Windows Server 2008 x64 Edition (KB2785220)	Important	
+ncorp001qm	Update for Windows Server 2008 x64 Edition (KB2779562)		
+ncorp001qm	Windows Malicious Software Removal Tool x64 - January 2013 (KB890830)		

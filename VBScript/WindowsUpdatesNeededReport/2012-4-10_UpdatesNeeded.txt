@@ -1,0 +1,170 @@
+Server	Update Name	Rating
+vcorp100w	Security Update for Microsoft .NET Framework 3.5.1 on Windows 7 and Windows Server 2008 R2 for x64-based Systems (KB2633879)	Critical	
+vcorp100w	Security Update for Windows Server 2008 R2 x64 Edition (KB2621440)	Critical	
+vcorp100w	Security Update for Microsoft .NET Framework 4 on XP, Server 2003, Vista, Windows 7, Server 2008, Server 2008 R2 for x64 (KB2656351)	Critical	
+vcorp100w	Security Update for Windows Server 2008 R2 x64 Edition (KB2665364)	Moderate	
+vcorp100w	Security Update for Windows Server 2008 R2 x64 Edition (KB2645640)	Important	
+vcorp100w	Security Update for Windows Server 2008 R2 x64 Edition (KB2667402)	Important	
+vcorp100w	Security Update for Windows Server 2008 R2 x64 Edition (KB2643719)	Important	
+vcorp100w	Security Update for Windows Server 2008 R2 x64 Edition (KB2641653)	Important	
+vcorp100w	Security Update for Microsoft .NET Framework 4 on XP, Server 2003, Vista, Windows 7, Server 2008, Server 2008 R2 for x64 (KB2633870)	Critical	
+vcorp100w	Security Update for Windows Server 2008 R2 x64 Edition (KB2654428)	Critical	
+vcorp100w	Cumulative Security Update for Internet Explorer 9 for Windows Server 2008 R2 x64 Edition (KB2647516)	Moderate	
+vcorp100w	Windows Server 2008 R2 Service Pack 1 x64 Edition (KB976932)		
+vcorp100w	Windows Malicious Software Removal Tool x64 - March 2012 (KB890830)		
+vcorp100w	Update Rollup for ActiveX Killbits for Windows Server 2008 R2 x64 Edition (KB2647518)		
+vcorp101w	Security Update for Microsoft .NET Framework 3.5.1 on Windows 7 and Windows Server 2008 R2 SP1 for x64-based Systems (KB2633873)	Critical	
+vcorp101w	Security Update for Windows Server 2008 R2 x64 Edition (KB2621440)	Critical	
+vcorp101w	Security Update for Windows Server 2008 R2 x64 Edition (KB2665364)	Moderate	
+vcorp101w	Security Update for Windows Server 2008 R2 x64 Edition (KB2645640)	Important	
+vcorp101w	Security Update for Windows Server 2008 R2 x64 Edition (KB2667402)	Important	
+vcorp101w	Security Update for Windows Server 2008 R2 x64 Edition (KB2647170)	Important	
+vcorp101w	Security Update for Windows Server 2008 R2 x64 Edition (KB2643719)	Important	
+vcorp101w	Security Update for Windows Server 2008 R2 x64 Edition (KB2641653)	Important	
+vcorp101w	Security Update for Microsoft .NET Framework 4 on XP, Server 2003, Vista, Windows 7, Server 2008, Server 2008 R2 for x64 (KB2633870)	Critical	
+vcorp101w	Security Update for Windows Server 2008 R2 x64 Edition (KB2654428)	Critical	
+vcorp101w	Cumulative Security Update for Internet Explorer 9 for Windows Server 2008 R2 x64 Edition (KB2647516)	Moderate	
+vcorp101w	Windows Malicious Software Removal Tool x64 - March 2012 (KB890830)		
+vcorp101w	Update Rollup for ActiveX Killbits for Windows Server 2008 R2 x64 Edition (KB2647518)		
+vcorp102w	Security Update for Microsoft .NET Framework 3.5.1 on Windows 7 and Windows Server 2008 R2 SP1 for x64-based Systems (KB2633873)	Critical	
+vcorp102w	Security Update for Windows Server 2008 R2 x64 Edition (KB2621440)	Critical	
+vcorp102w	Security Update for Windows Server 2008 R2 x64 Edition (KB2665364)	Moderate	
+vcorp102w	Security Update for Windows Server 2008 R2 x64 Edition (KB2645640)	Important	
+vcorp102w	Security Update for Windows Server 2008 R2 x64 Edition (KB2667402)	Important	
+vcorp102w	Security Update for Windows Server 2008 R2 x64 Edition (KB2647170)	Important	
+vcorp102w	Security Update for Windows Server 2008 R2 x64 Edition (KB2643719)	Important	
+vcorp102w	Security Update for Windows Server 2008 R2 x64 Edition (KB2641653)	Important	
+vcorp102w	Security Update for Microsoft .NET Framework 4 on XP, Server 2003, Vista, Windows 7, Server 2008, Server 2008 R2 for x64 (KB2633870)	Critical	
+vcorp102w	Security Update for Windows Server 2008 R2 x64 Edition (KB2654428)	Critical	
+vcorp102w	Cumulative Security Update for Internet Explorer 9 for Windows Server 2008 R2 x64 Edition (KB2647516)	Moderate	
+vcorp102w	Windows Malicious Software Removal Tool x64 - March 2012 (KB890830)		
+vcorp102w	Update Rollup for ActiveX Killbits for Windows Server 2008 R2 x64 Edition (KB2647518)		
+vcorp103w	Security Update for Microsoft Visual C++ 2008 Service Pack 1 Redistributable Package (KB2538243)	Important	
+vcorp103w	Service Pack 1 for Microsoft Office Filter Pack 2010 (KB2460041) 64-bit Edition		
+vcorp103w	Security Update for Microsoft Chart Controls for Microsoft .NET Framework 3.5 Service Pack 1 (KB2500170)	Important	
+vcorp103w	Security Update for Microsoft .NET Framework 3.5.1 on Windows 7 and Windows Server 2008 R2 SP1 for x64-based Systems (KB2572077)	Critical	
+vcorp103w	Security Update for .NET Framework 3.5.1 on Windows 7 and Windows Server 2008 R2 SP1 for x64-based Systems (KB2518869)	Critical	
+vcorp103w	Security Update for Microsoft .NET Framework 3.5.1 on Windows 7 and Windows Server 2008 R2 SP1 for x64-based Systems (KB2633873)	Critical	
+vcorp103w	Security Update for Windows Server 2008 R2 x64 Edition (KB2621440)	Critical	
+vcorp103w	Security Update for Windows Server 2008 R2 x64 Edition (KB2665364)	Moderate	
+vcorp103w	Security Update for Windows Server 2008 R2 x64 Edition (KB2645640)	Important	
+vcorp103w	Security Update for Windows Server 2008 R2 x64 Edition (KB2667402)	Important	
+vcorp103w	Security Update for Windows Server 2008 R2 x64 Edition (KB2643719)	Important	
+vcorp103w	Security Update for Windows Server 2008 R2 x64 Edition (KB2641653)	Important	
+vcorp103w	Security Update for Windows Server 2008 R2 x64 Edition (KB2654428)	Critical	
+vcorp103w	Cumulative Security Update for Internet Explorer 9 for Windows Server 2008 R2 x64 Edition (KB2647516)	Moderate	
+vcorp103w	Security Update for Microsoft .NET Framework 3.5.1 on Windows 7 and Windows Server 2008 R2 SP1 for x64-based Systems (KB2656356)	Critical	
+vcorp103w	Windows Malicious Software Removal Tool x64 - March 2012 (KB890830)		
+vcorp103w	Update Rollup for ActiveX Killbits for Windows Server 2008 R2 x64 Edition (KB2647518)		
+vcorp104w	Security Update for Microsoft Visual C++ 2008 Service Pack 1 Redistributable Package (KB2538243)	Important	
+vcorp104w	Update for Lync Server 2010, Unified Communications Managed API 3.0, Core Runtime 64-bit (KB 2500449)		
+vcorp104w	Microsoft SQL Server 2008 Service Pack 3 (KB2546951)		
+vcorp104w	Security Update for Microsoft .NET Framework 3.5.1 on Windows 7 and Windows Server 2008 R2 SP1 for x64-based Systems (KB2633873)	Critical	
+vcorp104w	Security Update for Windows Server 2008 R2 x64 Edition (KB2621440)	Critical	
+vcorp104w	Security Update for Windows Server 2008 R2 x64 Edition (KB2665364)	Moderate	
+vcorp104w	Security Update for Windows Server 2008 R2 x64 Edition (KB2645640)	Important	
+vcorp104w	Security Update for Windows Server 2008 R2 x64 Edition (KB2667402)	Important	
+vcorp104w	Security Update for Windows Server 2008 R2 x64 Edition (KB2643719)	Important	
+vcorp104w	Security Update for Windows Server 2008 R2 x64 Edition (KB2641653)	Important	
+vcorp104w	Security Update for Microsoft .NET Framework 4 on XP, Server 2003, Vista, Windows 7, Server 2008, Server 2008 R2 for x64 (KB2633870)	Critical	
+vcorp104w	Security Update for Windows Server 2008 R2 x64 Edition (KB2654428)	Critical	
+vcorp104w	Cumulative Security Update for Internet Explorer 9 for Windows Server 2008 R2 x64 Edition (KB2647516)	Moderate	
+vcorp104w	Windows Malicious Software Removal Tool x64 - March 2012 (KB890830)		
+vcorp104w	Update Rollup for ActiveX Killbits for Windows Server 2008 R2 x64 Edition (KB2647518)		
+vcorp105w	Security Update for Microsoft .NET Framework 3.5.1 on Windows 7 and Windows Server 2008 R2 SP1 for x64-based Systems (KB2633873)	Critical	
+vcorp105w	Security Update for Windows Server 2008 R2 x64 Edition (KB2621440)	Critical	
+vcorp105w	Security Update for Windows Server 2008 R2 x64 Edition (KB2665364)	Moderate	
+vcorp105w	Security Update for Windows Server 2008 R2 x64 Edition (KB2645640)	Important	
+vcorp105w	Security Update for Windows Server 2008 R2 x64 Edition (KB2667402)	Important	
+vcorp105w	Security Update for Windows Server 2008 R2 x64 Edition (KB2643719)	Important	
+vcorp105w	Security Update for Windows Server 2008 R2 x64 Edition (KB2641653)	Important	
+vcorp105w	Security Update for Microsoft .NET Framework 4 on XP, Server 2003, Vista, Windows 7, Server 2008, Server 2008 R2 for x64 (KB2633870)	Critical	
+vcorp105w	Security Update for Windows Server 2008 R2 x64 Edition (KB2654428)	Critical	
+vcorp105w	Cumulative Security Update for Internet Explorer 9 for Windows Server 2008 R2 x64 Edition (KB2647516)	Moderate	
+vcorp105w	Windows Malicious Software Removal Tool x64 - March 2012 (KB890830)		
+vcorp105w	Update Rollup for ActiveX Killbits for Windows Server 2008 R2 x64 Edition (KB2647518)		
+vcorp108w	Security Update for Microsoft .NET Framework 3.5.1 on Windows 7 and Windows Server 2008 R2 SP1 for x64-based Systems (KB2633873)	Critical	
+vcorp108w	Security Update for Windows Server 2008 R2 x64 Edition (KB2621440)	Critical	
+vcorp108w	Security Update for Windows Server 2008 R2 x64 Edition (KB2665364)	Moderate	
+vcorp108w	Security Update for Windows Server 2008 R2 x64 Edition (KB2645640)	Important	
+vcorp108w	Security Update for Windows Server 2008 R2 x64 Edition (KB2667402)	Important	
+vcorp108w	Security Update for Windows Server 2008 R2 x64 Edition (KB2643719)	Important	
+vcorp108w	Security Update for Windows Server 2008 R2 x64 Edition (KB2641653)	Important	
+vcorp108w	Security Update for Microsoft .NET Framework 4 on XP, Server 2003, Vista, Windows 7, Server 2008, Server 2008 R2 for x64 (KB2633870)	Critical	
+vcorp108w	Security Update for Windows Server 2008 R2 x64 Edition (KB2654428)	Critical	
+vcorp108w	Cumulative Security Update for Internet Explorer 9 for Windows Server 2008 R2 x64 Edition (KB2647516)	Moderate	
+vcorp108w	Windows Malicious Software Removal Tool x64 - March 2012 (KB890830)		
+vcorp108w	Update Rollup for ActiveX Killbits for Windows Server 2008 R2 x64 Edition (KB2647518)		
+vcorp109w	Security Update for Microsoft Visual Studio 2008 Service Pack 1 XML Editor (KB2251487)	Important	
+vcorp109w	Security Update for SQL Server 2008 R2 (KB2494088)	Important	
+vcorp109w	Microsoft SQL Server 2008 R2 Service Pack 1 (KB2528583)		
+vcorp109w	Security Update for Windows Server 2008 R2 x64 Edition (KB2644615)	Important	
+vcorp109w	Security Update for Windows Server 2008 R2 x64 Edition (KB2585542)	Important	
+vcorp109w	Cumulative Security Update for Internet Explorer 8 for Windows Server 2008 R2 x64 Edition (KB2647516)	Moderate	
+vcorp109w	Security Update for Microsoft .NET Framework 3.5.1 on Windows 7 and Windows Server 2008 R2 for x64-based Systems (KB2633879)	Critical	
+vcorp109w	Security Update for Windows Server 2008 R2 x64 Edition (KB2620712)	Important	
+vcorp109w	Security Update for Windows Server 2008 R2 x64 Edition (KB2124261)	Important	
+vcorp109w	Security Update for Windows Server 2008 R2 x64 Edition (KB2631813)	Important	
+vcorp109w	Security Update for Microsoft .NET Framework 3.5.1 on Windows 7 and Windows Server 2008 R2 for x64-based Systems (KB2656355)	Critical	
+vcorp109w	Security Update for Windows Server 2008 R2 x64 Edition (KB2621440)	Critical	
+vcorp109w	Security Update for Windows Server 2008 R2 x64 Edition (KB2665364)	Moderate	
+vcorp109w	Security Update for Windows Server 2008 R2 x64 Edition (KB2645640)	Important	
+vcorp109w	Security Update for Windows Server 2008 R2 x64 Edition (KB2667402)	Important	
+vcorp109w	Cumulative Security Update for ActiveX Killbits for Windows Server 2008 R2 x64 Edition (KB2618451)	Critical	
+vcorp109w	Security Update for Windows Server 2008 R2 x64 Edition (KB2643719)	Important	
+vcorp109w	Security Update for Windows Server 2008 R2 x64 Edition (KB2641653)	Important	
+vcorp109w	Security Update for Windows Server 2008 R2 x64 Edition (KB2654428)	Critical	
+vcorp109w	Security Update for Windows Server 2008 R2 x64 Edition (KB982666)	Important	
+vcorp109w	Security Update for Windows Server 2008 R2 x64 Edition (KB2584146)	Important	
+vcorp109w	Windows Server 2008 R2 Service Pack 1 x64 Edition (KB976932)		
+vcorp109w	Update for Windows Server 2008 R2 x64 Edition (KB2633952)		
+vcorp109w	Windows Malicious Software Removal Tool x64 - March 2012 (KB890830)		
+vcorp109w	Update Rollup for ActiveX Killbits for Windows Server 2008 R2 x64 Edition (KB2647518)		
+vcorp110w	Security Update for Microsoft Visual C++ 2008 Service Pack 1 Redistributable Package (KB2538243)	Important	
+vcorp110w	Cumulative Security Update for Internet Explorer 8 for Windows Server 2008 R2 x64 Edition (KB2647516)	Moderate	
+vcorp110w	Security Update for Microsoft .NET Framework 3.5.1 on Windows 7 and Windows Server 2008 R2 SP1 for x64-based Systems (KB2572077)	Critical	
+vcorp110w	Security Update for Windows Server 2008 R2 x64 Edition (KB2631813)	Important	
+vcorp110w	Security Update for Windows Server 2008 R2 x64 Edition (KB2509553)	Critical	
+vcorp110w	Security Update for .NET Framework 3.5.1 on Windows 7 and Windows Server 2008 R2 SP1 for x64-based Systems (KB2518869)	Critical	
+vcorp110w	Security Update for Microsoft .NET Framework 3.5.1 on Windows 7 and Windows Server 2008 R2 SP1 for x64-based Systems (KB2633873)	Critical	
+vcorp110w	Security Update for Windows Server 2008 R2 x64 Edition (KB2588516)	Critical	
+vcorp110w	Security Update for Windows Server 2008 R2 x64 Edition (KB2544893)	Low	
+vcorp110w	Security Update for Windows Server 2008 R2 x64 Edition (KB2510531)	Critical	
+vcorp110w	Security Update for Windows Server 2008 R2 x64 Edition (KB2621440)	Critical	
+vcorp110w	Security Update for Windows Server 2008 R2 x64 Edition (KB2507618)	Critical	
+vcorp110w	Security Update for Windows Server 2008 R2 x64 Edition (KB2560656)	Important	
+vcorp110w	Security Update for Windows Server 2008 R2 x64 Edition (KB2665364)	Moderate	
+vcorp110w	Security Update for Windows Server 2008 R2 x64 Edition (KB2645640)	Important	
+vcorp110w	Security Update for Windows Server 2008 R2 x64 Edition (KB2556532)	Moderate	
+vcorp110w	Security Update for Windows Server 2008 R2 x64 Edition (KB2667402)	Important	
+vcorp110w	Cumulative Security Update for ActiveX Killbits for Windows Server 2008 R2 x64 Edition (KB2618451)	Critical	
+vcorp110w	Security Update for Windows Server 2008 R2 x64 Edition (KB2643719)	Important	
+vcorp110w	Security Update for Windows Server 2008 R2 x64 Edition (KB2536275)	Important	
+vcorp110w	Security Update for Internet Explorer 8 for Windows Server 2008 R2 x64 Edition (KB2544521)	Moderate	
+vcorp110w	Security Update for Windows Server 2008 R2 x64 Edition (KB2641653)	Important	
+vcorp110w	Security Update for Windows Server 2008 R2 x64 Edition (KB2654428)	Critical	
+vcorp110w	Security Update for Windows Server 2008 R2 x64 Edition (KB2511455)	Critical	
+vcorp110w	Security Update for Windows Server 2008 R2 x64 Edition (KB2425227)	Important	
+vcorp110w	Security Update for Windows Server 2008 R2 x64 Edition (KB2570947)	Important	
+vcorp110w	Security Update for Windows Server 2008 R2 x64 Edition (KB2584146)	Important	
+vcorp110w	Security Update for Microsoft .NET Framework 3.5.1 on Windows 7 and Windows Server 2008 R2 SP1 for x64-based Systems (KB2656356)	Critical	
+vcorp110w	Windows Internal Database Service Pack 4 for x64 Edition (KB2463332)		
+vcorp110w	Windows Malicious Software Removal Tool x64 - March 2012 (KB890830)		
+vcorp110w	Update Rollup for ActiveX Killbits for Windows Server 2008 R2 x64 Edition (KB2647518)		
+mnhqcfile01-ret	Security Update for Microsoft Visual C++ 2005 Service Pack 1 Redistributable Package (KB2538242)	Important	
+mnhqcfile01-ret	Security Update for Microsoft Visual C++ 2008 Service Pack 1 Redistributable Package (KB2538243)	Important	
+mnhqcfile01-ret	Security Update for Windows Server 2003 (KB2645640)	Important	
+mnhqcfile01-ret	Security Update for Windows Server 2003 (KB2641653)	Important	
+mnhqcfile01-ret	Security Update for Windows Server 2003 (KB2621440)	Critical	
+mnhqcfile01-ret	Cumulative Security Update for Internet Explorer 8 for Windows Server 2003 (KB2647516)	Moderate	
+mnhqcfile01-ret	Security Update for Microsoft .NET Framework 2.0 SP2 on Windows Server 2003 and Windows XP x86 (KB2633880)	Critical	
+mnhqcfile01-ret	Update Rollup for ActiveX Killbits for Windows Server 2003 (KB2647518)		
+mnhqcfile01-ret	Windows Malicious Software Removal Tool - March 2012 (KB890830)		
+scorp001w	Security Update for Windows Server 2003 (KB2518295)	Important	
+scorp003w	Security Update for Windows Server 2003 (KB2645640)	Important	
+scorp003w	Security Update for Windows Server 2003 (KB2641653)	Important	
+scorp003w	Security Update for Windows Server 2003 (KB2621440)	Critical	
+scorp003w	Cumulative Security Update for Internet Explorer 8 for Windows Server 2003 (KB2647516)	Moderate	
+scorp003w	Security Update for Microsoft .NET Framework 2.0 SP2 on Windows Server 2003 and Windows XP x86 (KB2633880)	Critical	
+scorp003w	Update Rollup for ActiveX Killbits for Windows Server 2003 (KB2647518)		
+scorp003w	Windows Malicious Software Removal Tool - March 2012 (KB890830)		

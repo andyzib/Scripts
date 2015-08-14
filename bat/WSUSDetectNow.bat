@@ -1,0 +1,1 @@
+%windir%\System32\wuauclt.exe /detectnow

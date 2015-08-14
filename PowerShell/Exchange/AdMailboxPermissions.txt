@@ -1,0 +1,4 @@
+Get-User -filter {firstname -eq "Conf Rm"} |Add-MailboxPermission -User 'ACL-ConfRm-All-FullAccess' -AccessRights FullAccess -InheritanceType All -Automapping $false 
+
+Get-User -filter {firstname -eq "Conf Rm"} | Add-ADPermission -User "ACL-ConfRm-All-SendAs" -Extendedrights "Send As"
+

@@ -1,0 +1,1 @@
+c:\Windows\System32\shutdown.exe /r /m \\%computername% /t 0 /c "Scheduled Reboot" /f 
