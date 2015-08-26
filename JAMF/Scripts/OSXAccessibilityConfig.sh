@@ -10,7 +10,8 @@
 # Find the CFBundleIdentifier by viewing the Info.plist in your perferred text editor. 
 # The Info.plist can be found in /Applications/ApplicationName.app/Contents/Info.plist. 
 # Search for CFBundleIdentifier.
-
+# Created by Andrew Zbikowski <andrew@zibnet.us>
+# At least I think so...it looks like how I would document things. 
 CFBUNDLEIDENTIFIER=$4
 
 # Get OS X Version

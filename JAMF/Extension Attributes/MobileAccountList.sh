@@ -1,4 +1,6 @@
 #!/bin/sh
+# JAMF Casper Suite extension attribute
+# Check to see if a Mac has Network/Mobile accounts. 
 NETACCLIST=`dscl . list /Users OriginalNodeName | awk '{print $1}' 2>/dev/null`
 
 if [ "$NETACCLIST" == "" ]; then

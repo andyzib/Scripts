@@ -1,4 +1,7 @@
 #!/bin/sh
+# JAMF Casper Suite Extension Atribute
+# Get installed version of MySQL. 
+# Created by Andrew Zbikowski
 
 MYSQLBIN=`/usr/bin/which mysql`
 if [ "$MYSQLBIN" == "" ]; then

@@ -3,7 +3,7 @@
 # in Active Directory is able to authenticate. If authentication is
 # successful, all should be well with the Active Directory bind.
 #
-# https://jamfnation.jamfsoftware.com/discussion.html?id=13069
+# Source: https://jamfnation.jamfsoftware.com/discussion.html?id=13069
 #
 # Extension Attribute: ADCompAccount
 # Note: This script must be run as root on Mac OS X. 

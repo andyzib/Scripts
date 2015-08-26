@@ -1,4 +1,7 @@
 #!/bin/sh
+# Uses VMware Fusion's command line tools to suspend and running VMs. 
+# Helpful to run before updating VMWare fusion. 
+# Created by Andrew Zbikowski <andrew@zibnet.us>
 
 # Glob based on new line. 
 IFS='

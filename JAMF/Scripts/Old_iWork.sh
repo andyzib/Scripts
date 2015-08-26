@@ -5,6 +5,7 @@
 # $2 = Computer name
 # $3 = Username
 # $4 = Name of iWork app that is being installed/moved.
+# Created by Andrew Zbikowski <andrew@zibnet.us>
 
 APPNAME=$4
 APPPATH=/Applications/$APPNAME

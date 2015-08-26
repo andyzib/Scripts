@@ -1,5 +1,9 @@
 #!/bin/bash
-# Get version of installed iWork and iWork '09 applications. 
+# JAMF Casper Suite Extension Attribute
+# Get version of installed iWork and iWork '09 applications.
+# By default, iWork 09 gets moved and is still present on the system. 
+# This was causing issues with iWork policies based on the standard inventory. 
+# Created by Andrew Zbikowski
 
 # Configuration
 # Which App? Keynote, Pages, or Numbers. 

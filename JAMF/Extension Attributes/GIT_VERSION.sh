@@ -1,5 +1,7 @@
 #!/bin/bash
-
+# JAMF Casper Suite extension attribute. 
+# Get the command line version of GIT installed.
+# Created by Andrew Zbikowski 
 GIT=`/usr/bin/which git`
 
 # GIT from http://git-scm.com/download/mac
