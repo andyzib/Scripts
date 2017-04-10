@@ -31,7 +31,9 @@ Log file stored in the directory specified by the LogDir parameter.
 Author: Andrew Zbikowski <andrew@zibnet.us>
 
 Version History
-- 2016-04-06: Initial script development
+- 2017-04-10: Added RobocopyParameters.
+- 2017-04-07: Error checking on inputs.
+- 2017-04-06: Initial script development
  
 .EXAMPLE
 PS-Robocopy.ps1 -Source E:\MyFiles -Destination \\Server\MyFiles -LogDir C:\TEMP\Logs\MyFiles -MaxJobs 16
