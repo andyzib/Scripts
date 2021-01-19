@@ -69,5 +69,5 @@ foreach ($file in $files) {
     $infile = $file.FullName
     $outfile = $file.FullName.Replace(".$Extension","_trimmed.$Extension")
     # Call ffmpeg with the needed parameters. 
-    & $ffmpeg -i "$infile" -ss $Seconds -vcodec copy -acodec copy "$outfile" 
+    & $ffmpeg -i "$infile" -ss $Seconds -c copy -map 0 -vcodec copy -acodec copy "$outfile" 
 }
